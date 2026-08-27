@@ -10,7 +10,7 @@
 
 | Home Page | Booking Section |
 | :---: | :---: |
-| ![Home Page](./Mahee Tours & Travels_files/Home.png) | ![Booking](./Mahee Tours & Travels_files/book.png) |
+| <img src="./Mahee Tours & Travels_files/Home.png" width="400"> | <img src="./Mahee Tours & Travels_files/book.png" width="400"> |
 
 ## ✨ Features
 
